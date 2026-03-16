@@ -43,8 +43,8 @@ Bem-vindo ao meu primeiro projeto em C! Este é um jogo clássico de adivinhaç�
 ```
 
 ## 💭 O que eu aprendi:
-* **Lógica de Programação:**
-* **Interação com Usuário:**
+* **Lógica de Programação**
+* **Interação com Usuário**
 * **Git & GitHub:** Como versionar meu código e subir para um repositório.
 
 ## 🎲 Como jogar
