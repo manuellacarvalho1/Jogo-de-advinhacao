@@ -1,0 +1,7 @@
+# Executáveis
+*.out
+jogodeadivinhacao
+
+# Configurações do editor
+.vscode/
+*.code-workspace
