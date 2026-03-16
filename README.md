@@ -47,7 +47,18 @@ Bem-vindo ao meu primeiro projeto em C! Este é um jogo clássico de adivinhaç�
 * **Interação com Usuário**
 * **Git & GitHub:** Como versionar meu código e subir para um repositório.
 
+  
+## 🕹️ Como Jogar
+Não precisa instalar nada para testar o jogo! Pode correr o código diretamente no seu navegador:
+
+1. Clique aqui https://onlinegdb.com/0crRQLoFq
+2. Quando o site abrir, clica no botão verde **Run** no topo da página.
+3. Jogue através do terminal que aparecer na parte de baixo.
+
 ## 🎲 Como jogar
 1. Escolha o nível de dificuldade.
 2. Tente adivinhar o número secreto.
 3. Veja sua pontuação final!
+
+> [!IMPORTANT]
+> **Nota sobre a Interface:** > Devido a limitações de codificação (encoding) em alguns terminais online (como o OnlineGDB), a arte ASCII complexa pode apresentar caracteres inesperados (como `?`). Para uma experiência visual perfeita, recomenda-se rodar o código localmente em um terminal configurado para UTF-8.
